@@ -97,6 +97,7 @@ dependencies:
       - wigglystuff
       - GPUtil
       - psutil
+      - pip-system-certs
 
 # Create an environment - use conda or mamba
 # conda env create --file env_smartmic.yml
